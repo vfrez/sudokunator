@@ -25,14 +25,6 @@
 hs_err_pid*
 
 .gradle/
-.idea/.gitignore
-.idea/gradle.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/uiDesigner.xml
-build.gradle
+.idea/
 build/
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
+
